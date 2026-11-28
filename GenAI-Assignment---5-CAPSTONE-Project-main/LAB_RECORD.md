@@ -1,6 +1,6 @@
 # Lab Record: Assignment 5, ETMMGA304 Generative AI and Its Applications
 
-**Student:** Lokesh Tushir **Roll no.:** 2501940060 **Programme:** MCA
+**Student:** Harsh Sharma **Roll no.:** 2501940054 **Programme:** MCA(Ai/Ml)
 
 Fill in each blank table from **your own run**. The *expected ranges* below
 are approximate values for the default settings, to help you spot a broken
